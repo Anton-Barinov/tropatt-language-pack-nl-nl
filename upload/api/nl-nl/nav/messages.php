@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Dashboard',
+  'ideas' => 'Ideas',
+  'tasks' => 'Taken',
+  'day' => 'My day',
+  'week' => 'My week',
+  'kanban' => 'Kanban',
+  'gantt' => 'Gantt',
+  'projects' => 'Projecten',
+  'calendar' => 'Agenda',
+  'counterparties' => 'Counterparties',
+  'teams' => 'Teams',
+  'knowledge' => 'Kennisbank',
+  'analytics' => 'Analyses',
+  'notifications' => 'Meldingen',
+  'admin' => 'Beheer',
+  'intake' => 'Intake',
+  'cycles' => 'Cycles (Sprints)',
+  'project_modules' => 'project modules',
+  'admin_estimates' => 'taak Estimates',
+  'admin_modules' => 'modules',
+  'chat' => 'Chats',
+  'docs' => 'Documentation',
+  'api' => 'Documentation',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'Rate cards',
+  'menu_loaded' => 'Menu loaded',
+);

@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-nl-nl",
+    "full_code": "crm.language-pack-nl-nl",
+    "vendor": "crm",
+    "code": "nl-nl",
+    "title": "Dutch Language Pack (Nederlands)",
+    "native_name": "Nederlands",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "Volledige Nederlandse lokalisatie voor TropaTT CRM.",
+    "signature": "419b5480ae3026d901e983b78e799277a2716b2c13f76fae90e1468c06d7b52b"
+}

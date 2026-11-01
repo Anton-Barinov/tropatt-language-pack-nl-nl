@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Dependency list',
+  'created' => 'Dependency created',
+  'deleted' => 'Dependency deleted',
+  'not_found' => 'Dependency not found',
+  'task_not_found' => 'One of the taken was not found',
+  'invalid_type' => 'Invalid dependency type',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => 'taak cannot depend on itself',
+  'different_projects' => 'Dependencies can only be created between taken in the same project',
+  'empty' => 'No dependencies',
+  'th_type' => 'Type',
+  'th_task' => 'taak',
+  'btn_delete' => 'Verwijderen',
+  'load_error' => 'Failed to load dependencies',
+  'prompt_task_id' => 'taak ID (public_id)',
+  'task_id_empty' => 'taak ID cannot be empty',
+  'prompt_dep_type' => 'Dependency type (FS, SS, FF, SF)',
+  'created_notify' => 'Dependency added',
+  'confirm_delete' => 'verwijderen dependency?',
+  'deleted_notify' => 'Dependency deleted',
+  'type_fs' => 'Finish-Start',
+  'type_ss' => 'Start-Start',
+  'type_ff' => 'Finish-Finish',
+  'type_sf' => 'Start-Finish',
+  'type_blocks' => 'Blocks',
+  'cyclic_dependency' => 'Dependency would maken a cycle between taken',
+);

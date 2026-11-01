@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'Laden…',
+  'load_error' => 'laden fout',
+  'empty' => 'No opgeslagen views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => 'Bewerken',
+  'archive' => 'Archive',
+  'applied' => 'View applied:',
+  'apply_error' => 'fout applying view',
+  'save_as' => 'opslaan as nieuw view',
+  'edit_title' => 'bewerken view',
+  'title_required' => 'Enter a view naam',
+  'update_error' => 'fout updating view',
+  'create_error' => 'fout creating view',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'Fout',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => 'fout duplicating',
+  'confirm_archive' => 'Archive this view?',
+  'archived' => 'View archived',
+  'archive_error' => 'fout archiving',
+);

@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Workflow rules list',
+  'created' => 'Workflow rule created',
+  'detail' => 'Workflow rule details',
+  'updated' => 'Workflow rule updated',
+  'deleted' => 'Workflow rule deleted',
+  'test_run' => 'Test run voltooid',
+  'runs' => 'Workflow runs list',
+  'not_found' => 'Workflow rule not found',
+  'invalid_trigger_code' => 'Invalid trigger_code',
+  'invalid_action_code' => 'Invalid action_code',
+  'payload_object' => 'Payload must be an object',
+  'max_255' => 'Maximum 255 characters',
+  'action_no_task_or_assignee' => 'No taak or assignee selected',
+  'action_no_task_or_status' => 'No taak or nieuw status selected',
+  'default_notification_title' => 'Automation melding',
+  'action_no_notification_recipient' => 'No melding recipient selected',
+  'action_no_task_or_comment' => 'No taak or opmerking text selected',
+  'action_no_user_for_reminder' => 'No gebruiker selected for reminder',
+  'action_no_follow_up_title' => 'Follow-up taak titel not specified',
+  'action_invalid_webhook_url' => 'Provide a valid http/https webhook URL',
+  'action_no_task_for_sla' => 'No taak selected for SLA',
+  'action_no_manager' => 'No manager found for the executor',
+  'manager_notification_title' => 'Long work without a break',
+  'manager_notification_body' => '{user}: {total} minutes logged on the taak «{task}» on {day} (threshold {threshold} minutes).',
+  'test_task_title' => 'Test taak',
+  'follow_up_description' => 'Created by automation rule from taak',
+  'follow_up_prefix' => 'Follow-up:',
+  'unknown_action' => 'onbekend action:',
+);

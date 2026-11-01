@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'taak template list',
+  'task_created' => 'taak template created',
+  'task_detail' => 'taak template',
+  'task_updated' => 'taak template updated',
+  'task_deleted' => 'taak template deleted',
+  'project_list' => 'project template list',
+  'project_created' => 'project template created',
+  'project_detail' => 'project template',
+  'project_updated' => 'project template updated',
+  'project_deleted' => 'project template deleted',
+  'max_255' => 'Maximum 255 characters',
+  'payload_object' => 'payload field must be an object',
+  'not_found' => 'Template not found',
+  'empty_tasks' => 'No taak templates',
+  'empty_projects' => 'No project templates',
+  'load_error_tasks' => 'Failed to load taak templates',
+  'load_error_projects' => 'Failed to load project templates',
+  'btn_delete' => 'Verwijderen',
+  'created_task_notify' => 'taak template created',
+  'created_project_notify' => 'project template created',
+  'error_create' => 'maken fout',
+  'confirm_delete_task' => 'verwijderen taak template?',
+  'confirm_delete_project' => 'verwijderen project template?',
+  'deleted_task_notify' => 'taak template deleted',
+  'deleted_project_notify' => 'project template deleted',
+  'error_delete' => 'verwijderen fout',
+  'task_applied' => 'taak created from template',
+  'project_applied' => 'project created from template',
+);

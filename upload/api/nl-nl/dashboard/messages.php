@@ -1,0 +1,32 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'widgets' => 'dashboard widgets',
+  'widgets_saved' => 'dashboard widgets updated',
+  'widgets_required' => 'Widgets list is verplicht',
+  'summary' => 'dashboard summary',
+  'sticky_notes_title' => 'Sticky Notes',
+  'sticky_notes_loading' => 'laden notes...',
+  'sticky_notes_error' => 'Failed to load notes',
+  'sticky_notes_empty' => 'No notes yet',
+  'sticky_notes_add' => '+ Add note',
+  'sticky_notes_pin' => 'Pin',
+  'sticky_notes_unpin' => 'Unpin',
+  'sticky_notes_archive' => 'Archive',
+  'sticky_notes_archive_confirm' => 'Archive note?',
+  'sticky_notes_content_required' => 'Enter note text',
+  'sticky_notes_saved' => 'Note updated',
+  'sticky_notes_save_error' => 'opslaan fout',
+  'sticky_notes_update_error' => 'bijwerken fout',
+  'sticky_notes_archived' => 'Note archived',
+  'sticky_notes_archive_error' => 'Archive fout',
+  'sticky_notes_create_title' => 'nieuw note',
+  'sticky_notes_content_label' => 'Note text',
+  'sticky_notes_placeholder' => 'Write a note...',
+  'sticky_notes_color_label' => 'Colour',
+  'sticky_notes_created' => 'Note created',
+  'sticky_notes_create_error' => 'Creation fout',
+  'insights' => 'dashboard widget metrics',
+  'insights_unknown_widget' => 'onbekend dashboard widget',
+);
